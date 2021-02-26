@@ -1,0 +1,14 @@
+D:\Projects\Larger Picker\bin\Debug\Larger Picker.exe.config
+D:\Projects\Larger Picker\bin\Debug\Larger Picker.exe
+D:\Projects\Larger Picker\bin\Debug\Larger Picker.pdb
+D:\Projects\Larger Picker\obj\Debug\Larger Picker.csprojAssemblyReference.cache
+D:\Projects\Larger Picker\obj\Debug\MainWindow.g.cs
+D:\Projects\Larger Picker\obj\Debug\App.g.cs
+D:\Projects\Larger Picker\obj\Debug\Larger Picker_MarkupCompile.cache
+D:\Projects\Larger Picker\obj\Debug\Larger Picker_MarkupCompile.lref
+D:\Projects\Larger Picker\obj\Debug\MainWindow.baml
+D:\Projects\Larger Picker\obj\Debug\Larger Picker.g.resources
+D:\Projects\Larger Picker\obj\Debug\Larger_Picker.Properties.Resources.resources
+D:\Projects\Larger Picker\obj\Debug\Larger Picker.csproj.GenerateResource.cache
+D:\Projects\Larger Picker\obj\Debug\Larger Picker.exe
+D:\Projects\Larger Picker\obj\Debug\Larger Picker.pdb
